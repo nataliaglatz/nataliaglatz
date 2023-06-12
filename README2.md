@@ -8,7 +8,7 @@
     
     <hr>
     
-    ** github **
+    # github
     
     1. Aula1
     2. Aula2
@@ -16,9 +16,10 @@
     
     _ github _
     
-    -[] opção1
-    -[] opção2
-    -[] opção3
+    - [] opção1
+    - [] opção2
+    - [] opção3
+   
     
     # Titulo 1
     
