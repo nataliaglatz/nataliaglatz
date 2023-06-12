@@ -5,6 +5,24 @@
   aula de GitHub DIA 12/06/2023
   
   <b> Sesc Londrina Centro <b>
+    
+    <hr>
+    
+    **github**
+    
+    1. Aula1
+    2. Aula2
+    3. Aula3
+    
+    _github_
+    
+    -[ ] opção1
+    -[ ] opção2
+    -[ ] opção3
+    
+    #titulo 1
+    ***
+    [senac]
 
 
 
