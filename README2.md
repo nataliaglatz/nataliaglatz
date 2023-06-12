@@ -8,20 +8,20 @@
     
     <hr>
     
-    **github**
+    ** github **
     
     1. Aula1
     2. Aula2
     3. Aula3
     
-    _github_
+    _ github _
     
     -[] opção1
     -[] opção2
     -[] opção3
     
     # Titulo 1
-    ***
+    
     [senac](https://www.senac.com.br)
     
     🤪
